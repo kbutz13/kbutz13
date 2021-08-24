@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kbutz13
-- 👀 I’m interested in ...javascript, Cypress, QA, Development, 
+- 👀 I’m interested in ...JavaScript, Cypress, QA, Development, learning!
 - 🌱 I’m currently learning ...Cypress and JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... linkedin, meesage me here! 
 
 <!---
 kbutz13/kbutz13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
